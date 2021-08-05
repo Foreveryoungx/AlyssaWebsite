@@ -8,7 +8,6 @@ function HeroSection() {
         <div className='hero-container'>
         <video src="/videos/Comp_8.mp4" autoPlay loop muted />
         <h1>EVALUATE YOUR RESUME</h1>
-        <p>Land that next job your pursuing</p>
             <div className="hero-btn">
             <Button className='btns' buttonStyle="btn--outline" buttonSize='btn--large'>
                 GET STARTED
